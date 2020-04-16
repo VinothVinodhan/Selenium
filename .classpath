@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manju/Downloads/Compressed/poi-bin-3.15-20160924/poi-3.15/All JARs/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="Web Driver/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="Web Driver/client-combined-3.0.1-nodeps.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://seleniumhq.github.io/selenium/docs/api/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Web Driver/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="Web Driver/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="Web Driver/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="Web Driver/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="Web Driver/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Web Driver/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="Web Driver/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="Web Driver/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="Web Driver/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="Web Driver/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="Web Driver/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="Web Driver/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="Web Driver/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="Web Driver/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="Web Driver/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="Web Driver/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Web Driver/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="Web Driver/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="Web Driver/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="Web Driver/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="Web Driver/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="Web Driver/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="Web Driver/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="Web Driver/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="Web Driver/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="Web Driver/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="Web Driver/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="Web Driver/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="Web Driver/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="Web Driver/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="Web Driver/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="Web Driver/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="Mail Jars/activation.jar"/>
+	<classpathentry kind="lib" path="Mail Jars/javax.mail.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
